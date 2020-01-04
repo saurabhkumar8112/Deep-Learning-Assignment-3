@@ -14,3 +14,7 @@ The image generated from my GAN training on FMNIST after 300 epochs is shown her
 Ther adversarial attack hence generated :
 
 ![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Deep-Learning-Assignment-3/master/adversary.JPG)
+
+Some Generated MNIST images for reference :
+
+![alt text](https://raw.githubusercontent.com/saurabhkumar8112/Deep-Learning-Assignment-3/master/mnist_ref.png)
